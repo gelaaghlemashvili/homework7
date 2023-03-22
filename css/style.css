@@ -1,0 +1,42 @@
+/* დავიწყე ჰედერზე მუშაობა */
+.conteiners {
+    max-width: 1920px;
+    width: 100%;
+    margin: o auto;
+}
+header {
+    width: 100%;
+    padding: 50px 320px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #262626;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
+    max-width: inherit;
+    width: inherit;
+    
+}
+.headernav {
+    
+    width: 400px;
+}
+.headerul{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.headera {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+}
+.bag{
+    font-size: 32px;
+    color: white;
+}
+.yellow {
+    color: #DCB47A;
+}
