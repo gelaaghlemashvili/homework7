@@ -115,6 +115,58 @@ h1 {
     font-size: 20px;
 }
 /* სექცია1 დასასრული */
+/* სექცია2 დასაწყისი */
+
+.section2 {
+    width: 70%;
+    margin-top: 245px;
+    
+}
+.cards {
+    display: flex;
+    
+    width: 100%;
+    justify-content: space-between;
+    margin-left: 320px;
+    flex-wrap: wrap;
+    
+    
+
+}
+.cardimg {
+    width: 80%;
+    
+}
+.card1 {
+    display: flex;
+    width: 390px;
+    margin-bottom: 245px;
+    flex-direction: column;
+
+
+}
+h2 {
+    margin-bottom: 81px;
+    font-size: 75px;
+    margin-left: 320px;
+    font-family: 'Work Sans';
+}
+.money {
+    margin-top: 17px;
+    font-size: 16px;
+    font-family: 'Inter';
+}
+h3 {
+    margin-top: 54px;
+    font-size: 16px;
+    font-family: 'Inter';
+}
+.icon {
+    width: 19px;
+    height: 19px;
+    
+    
+}
     
  
     
